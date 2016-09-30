@@ -8,7 +8,7 @@
 * Participants:
   * Klaus Rüdiger Hase (DB-Netz)
   * Bernd Hekele (DB)
-  * Allesandra Bagnato (SOFTEAM)
+  * Alessandra Bagnato (SOFTEAM)
   * Andrey Sahovykh (SOFTEAM)
   * Marc Behrens (DLR)
   * Christian König (TWT)
