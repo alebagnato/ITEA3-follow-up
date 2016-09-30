@@ -35,7 +35,8 @@
 - The proposal will be prepared in the [wiki](https://github.com/openETCS/ITEA3-follow-up/wiki) of this location.
 - A grooming session is planned for organising the work (Doodle and Invitation will follow). Partners are welcome to contribute to the documents.
 - The [scrum board](https://waffle.io/openETCS/ITEA3-follow-up) will be used for organising contributions.
-- Deadline for a draft document is 20th of October.
+- Deadline for 1st shot: 20th of October.
+- Deadline: 27th of October.
 - Partners need to register with the Git-Account at project office to get appropriate access rights.
 - The repository will be managed as a "private" repository until the proposal is completed. After completing the application the repository is planned to be set to "public".
 - The [issue tracker](https://github.com/openETCS/ITEA3-follow-up/issues) is to be used heavily.
